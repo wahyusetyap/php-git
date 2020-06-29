@@ -27,5 +27,5 @@ echo ubah_huruf('DEVELOPER');echo "<br>"; // efwfmpqfs
 echo ubah_huruf('LaRaVeL');echo "<br>"; // mbsbwfm
 echo ubah_huruf('Ke-Ren');echo "<br>"; // lfsfo
 echo ubah_huruf('S3m4ng4T');echo "<br>"; // tfnbohbu
-
+echo "halo";
 ?>
